@@ -1,0 +1,24 @@
+{
+  "name": "ark-stable",
+  "version": "1.0.0",
+  "description": "Uses Sqlite + Express for an API to store Dinos",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsturgeon/Ark-Stable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidsturgeon/Ark-Stable/issues"
+  },
+  "homepage": "https://github.com/davidsturgeon/Ark-Stable#readme"
+}
